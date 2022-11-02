@@ -120,7 +120,7 @@ Use [this form](https://airtable.com/shr6mk28x0fy3OrxN?prefill_Item=rubyf_ch3_pe
 Then add this destination repo to your remote path using Git:
 
     
-    git add remote review_repo https://github.com/<your profile name>/ruby_challenge_one.git
+    git remote add review_repo https://github.com/<your profile name>/ruby_challenge_one.git
     
 
 You must make a new branch in order for your Peer to be able to leave comments on. It will look something like this:
