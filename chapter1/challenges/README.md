@@ -8,9 +8,7 @@ Well done for reaching the chapter 1 challenges! Here, you'll find two types of 
 
 To get the exercises onto your machine, you'll need to fork and then clone this repo.
 
-If you're not sure how to do that, watch [this short video](https://www.youtube.com/watch?v=QWV5-UNNSLI) and substitute `python_foundations` instead of `ruby_foundations`.
-
-/** @TASK — Create a general or Python-specific video **/
+If you're not sure how to do that, watch [this short video](https://www.youtube.com/watch?v=QWV5-UNNSLI).
 
 ### Installing Dependencies
 

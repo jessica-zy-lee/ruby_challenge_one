@@ -55,7 +55,7 @@ Let's create an instance of the class `Greeter` and then execute the `hello` and
 
 The `.new` method is called on the actual class itself and it returns an instance of the class, which is assigned to the `greeter` variable. We also see the _return value_ below, which is a reference to the instance we just created. In your case, the value after `#<Greeter:` will be different, but that's fine :) Do it all again and you'll see another value.
 
-Next, we call `hello` and `good_bye` are called on the instance, which return the Strings `"Hello!"` and `"Good bye!"`, respectively.
+Next, we call `hello` and `good_bye` on the instance, which returns the Strings `"Hello!"` and `"Good bye!"`, respectively.
 
 You'll need to put this new stuff into practice, if you want it to stick. So do that now by building the following classes.
 
