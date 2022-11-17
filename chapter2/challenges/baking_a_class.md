@@ -1,6 +1,6 @@
 # How to Decompose or Deconstruct a Problem
 
-[Stanislavski's metaphor](../../../pills/problem_decomposition.ed.md) gives us a vivid and relatable mental image that we can come back to whenever we're presented with a large problem. As a novice, however, you'll benefit from having a clear method for decomposing problems, so let's extend the metaphor.
+[Stanislavski's metaphor](../../pills/problem_decomposition.md) gives us a vivid and relatable mental image that we can come back to whenever we're presented with a large problem. As a novice, however, you'll benefit from having a clear method for decomposing problems, so let's extend the metaphor.
 
 Stanislavski's cake needed to be baked and the chef, rather than holding all the instructions in their head, used a recipe that even a novice chef could follow.
 
@@ -24,10 +24,7 @@ Class interfaces are made up of methods - specifically the names, arguments and 
 
 > What would the interface for `PasswordManager` look like? Try to sketch it out and then take a peek at our suggestion below.
 
-/** EDU
-  The image below doesn't display when you preview in VSCode but does display when deployed.
-  See it here: https://github.com/makersacademy/ruby_foundations/blob/main/chapter2/challenges/baking_a_class.md#2-design-the-class-interface
-**/
+<!-- OMITTED -->
 
 <details>
   <summary>PasswordManager Interface</summary>

@@ -2,7 +2,7 @@
 
 Well done for reaching the chapter 3 challenges!
 
-Do the drills first and then move onto the programming challenge. You must complete both before going [back](../06_putting_it_into_practice.md) to reflect on your progress.
+Do the drills first and then move onto the programming challenge. You must complete both before going [back](../06_putting_chapter_3_into_practice.md) to reflect on your progress.
 
 ## Initial Setup
 

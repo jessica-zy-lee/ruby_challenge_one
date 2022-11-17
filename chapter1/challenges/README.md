@@ -1,6 +1,6 @@
 # Chapter 1 Challenges
 
-Well done for reaching the chapter 1 challenges! Here, you'll find two types of exercise: drills and a programming challenge. Do the drills first and then move onto the programming challenge. You must complete both before going [back](../09_putting_it_into_practice.md) to reflect on your progress.
+Well done for reaching the chapter 1 challenges! Here, you'll find two types of exercise: drills and a programming challenge. Do the drills first and then move onto the programming challenge. You must complete both before going [back](../09_putting_chapter_1_into_practice.md) to reflect on your progress.
 
 ## Initial Setup
 
@@ -33,6 +33,8 @@ This will install `rspec`, which we used to write the tests (more about that bel
 ## RSpec
 
 RSpec is a tool used to write tests that ensure your program does what it needs to do. In the near future you'll be writing your own tests but, for now, you'll use the tests that we wrote for you.
+
+If you want more details of how to use RSpec, read [this description](../../pills/rspec.md).
 
 Your goal is to make all the tests pass.
 
